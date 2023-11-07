@@ -1,0 +1,19 @@
+/* debug */
+
+[class*="col-"] {
+    background-color: #006cfa;
+    min-height: 60px;
+    border: 1px solid white;
+}
+
+.green{
+    background-color: #00e165;
+}
+
+.container-fluid{
+    margin-bottom: 20px;
+}
+
+.flex{
+    display: flex;
+}

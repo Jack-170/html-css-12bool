@@ -14,6 +14,20 @@
     margin-bottom: 20px;
 }
 
+.row{
+    border: 1px solid black;
+}
+
 .flex{
     display: flex;
+}
+
+.internal{
+    width: 95%;
+    height: 80%;
+    margin: auto;
+    
+}
+.higher{
+    height: 100px;
 }
